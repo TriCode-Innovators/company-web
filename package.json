@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/claudiovarzi/company-portfolio.git"
+    "url": "git+https://github.com/obaidullah11/TriCode-Innovators.git"
   },
   "keywords": [
     "Bootstrap",
@@ -20,9 +20,9 @@
   "author": "Claudio Varzi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/claudiovarzi/company-portfolio/issues"
+    "url": "https://github.com/obaidullah11/TriCode-Innovators/issues"
   },
-  "homepage": "https://github.com/claudiovarzi/company-portfolio#readme",
+  "homepage": "",
   "devDependencies": {
     "sass": "^1.49.9"
   },
